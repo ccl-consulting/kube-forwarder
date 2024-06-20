@@ -1,4 +1,4 @@
-module github.com/ccl-consulting/forwarder
+module github.com/ccl-consulting/kube-forwarder
 
 go 1.16
 
